@@ -1,4 +1,4 @@
-# Method Scope Lab
+"It's Dangerous To Go Alone! Take This."# Method Scope Lab
 
 ## Learning Goals
 
